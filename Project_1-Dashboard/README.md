@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-https://github.com/KhushiiiGarg/Excel_Project-Data_Analytics/blob/main/Images/1_Salary_Dashboard_Final_Dashboard.gif?raw=true
+![Project_1-Dashboard](Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
